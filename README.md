@@ -1,3 +1,3 @@
 # Rotagyn
 
-Dashboard Rotagyn Beta
+Dashboard Rotagyn | Versão Beta
